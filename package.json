@@ -1,0 +1,22 @@
+{
+  "name": "buger-eats",
+  "version": "1.0.0",
+  "description": "Projeto de testes buger-eats",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cardosojorge65/cypress_discovery.git"
+  },
+  "author": "Jorge Cardoso",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cardosojorge65/cypress_discovery/issues"
+  },
+  "homepage": "https://github.com/cardosojorge65/cypress_discovery#readme",
+  "dependencies": {
+    "cypress": "^9.5.4"
+  }
+}
